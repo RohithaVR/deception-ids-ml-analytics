@@ -1,0 +1,39 @@
+# Python byte-code cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyx
+*.so
+ 
+# C extensions
+*.c
+*.h
+ 
+# Distribution / packaging
+.egg
+*.egg-info
+dist/
+build/
+develop/
+sdist/
+wheels/
+*.whl
+*.tar.gz
+*.zip
+ 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+ 
+# Local configuration
+.env
+local_settings.py
+ 
+# Test directories
+tests/
+test*/
+ 
+# IDE files
+.idea/
+*.iml
+*.DS_Store
